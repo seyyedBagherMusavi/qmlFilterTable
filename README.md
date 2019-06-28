@@ -15,7 +15,7 @@ create qml table that can sort, search and dynamic data append
 
 ![ScreenGif_search](https://user-images.githubusercontent.com/47794289/60348214-56ce7c00-99d4-11e9-9c44-ded8d11c4082.gif)
 
-# select  and sort  show information
+# sort and show details of  selected row
 
 ![ScreenGif_Selection](https://user-images.githubusercontent.com/47794289/60348298-81b8d000-99d4-11e9-9016-cce94b74e8ce.gif)
 
