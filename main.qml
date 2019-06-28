@@ -205,7 +205,7 @@ ApplicationWindow {
     ListModel {
         id: sourceModel
         Component.onCompleted: {
-            for (var i = 0; i < 20000; i++) {
+            for (var i = 0; i < 200; i++) {
                 sourceModel.append(createListElement(i));
                 //sourceModel.get(i).FName = 10.95;
             }
