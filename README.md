@@ -1,5 +1,8 @@
 # qmlFilterTable
 
+طراحی جدول در کیوام ال با قابلیت  جستجو، مرتب سازی و فیلتر نمودن
+
+
 i not found butifull table on Qt QML then i wrote this program, simple table on Qt QML,
 
 create qml table that can sort, search and dynamic data append
@@ -10,6 +13,10 @@ create qml table that can sort, search and dynamic data append
 
 # Dynamic search fields on table
 
-![2019-06-26_192626](https://user-images.githubusercontent.com/47794289/60235042-acfbcc00-98bb-11e9-9bf0-8834140c0f70.png)
+![ScreenGif_search](https://user-images.githubusercontent.com/47794289/60348214-56ce7c00-99d4-11e9-9c44-ded8d11c4082.gif)
 
-i hope this useFull for you
+# select  and sort  show information
+
+![ScreenGif_Selection](https://user-images.githubusercontent.com/47794289/60348298-81b8d000-99d4-11e9-9016-cce94b74e8ce.gif)
+
+i hope this code useFull for you
